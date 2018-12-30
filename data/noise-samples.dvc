@@ -1,0 +1,5 @@
+md5: a71a750793a93f5044aefb4dca8aa6a5
+outs:
+- cache: true
+  md5: 783168f2124337de741c737b74b735ed.dir
+  path: noise-samples

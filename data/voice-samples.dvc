@@ -1,0 +1,5 @@
+md5: 159884caf5370a541c19b82985411523
+outs:
+- cache: true
+  md5: 9e1bee9726721b665045dc6a7af167d8.dir
+  path: voice-samples
