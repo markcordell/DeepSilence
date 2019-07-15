@@ -1,0 +1,5 @@
+md5: c4e50cbd430f1fe41f94f38bfa20a77a
+outs:
+- cache: true
+  md5: bc4b183f44b000c6d655415e89dc48d0.dir
+  path: samples
